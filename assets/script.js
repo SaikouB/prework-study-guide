@@ -23,3 +23,4 @@ for (var x = 0; x < topics.length; x++) {
    function listTopics(){}
    console.log('Which topic should we study first?');
    function selectTopics() {}
+   
